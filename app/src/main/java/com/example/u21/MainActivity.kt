@@ -469,10 +469,7 @@ fun hoqv()
         verticalArrangement = Arrangement.SpaceEvenly,
         horizontalAlignment = Alignment.CenterHorizontally)
     {
-        Text("这个应用使用Android Studio 2024基于kotlin编写，感谢AS提供的资源\n" +
-                "通过百度网盘分享的文件：MainActivity.kt\n" +
-                "链接：https://pan.baidu.com/s/1NsOT4envNE4sFcMzK4hejA?pwd=6666 \n" +
-                "提取码：6666" )
+        Text("github上搜U2" )
     }
 }
 
