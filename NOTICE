@@ -15,3 +15,13 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+
+---
+# 附加信息
+
+本项目使用了exp4j库的部分或全部。有关更多信息，请访问：
+[exp4j 官方网站]
+
+[exp4j 官方网站]:https://github.com/fasseg/exp4j
