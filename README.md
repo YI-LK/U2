@@ -19,7 +19,6 @@
 
 ## 使用方法
 
-直接获取.apk.文件路径：app\build\outputs\apk\debug
 在MainActivity.kt中含有两个类Maxi和Array_Maxi，这是两个实现矩阵的kotlin类，供借鉴使用
 
 ## 贡献
